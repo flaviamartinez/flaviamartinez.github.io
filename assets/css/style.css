@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nombre{
+    color: blue;
+    font-size: 20px;
+    border: 15px solid #000;
+    margin: 50px;
+    padding: 25px;
+}
+
+#titulo{
+    color: gray
+}
+
+.awards{
+    color: blueviolet
+}

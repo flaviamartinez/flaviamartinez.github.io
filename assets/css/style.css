@@ -10,3 +10,8 @@ body{
     background-size: cover;
     background-position: left;
 }
+
+.resume-section {
+    padding-top: 5rem;
+    padding-bottom: 5rem
+}

@@ -9,10 +9,14 @@ body{
 	object-fit: cover;
   }
 
+.section-title{
+	background-color: #4f6d90;
+}
+
 a{
 	color: black
 }
 
 a:hover {
-	color: blue;
+	color: #4f6d90;
   }

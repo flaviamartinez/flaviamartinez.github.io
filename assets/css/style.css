@@ -41,3 +41,15 @@ body{
 .custom-bg{
     background-color: #2a475e;
 }
+
+.company-logo {
+    width: 2rem;
+    margin-right: 10px;
+    vertical-align: bottom;
+}
+
+.latam-logo {
+    width: 1.5rem;
+    margin-right: 10px;
+    vertical-align: bottom;
+}

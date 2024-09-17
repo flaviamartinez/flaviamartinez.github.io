@@ -4,11 +4,23 @@ body{
     font-family: "Montserrat", sans-serif;
 }
 
+.navbar.custom-bg {
+    background-color: #2a475e;
+}
+
 #Hero-Section {
     background-image: url("../img/bg-hero.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+}
+
+.custom-circle.custom-bg{
+    background-color: #4f6d90;
+}
+
+.btn.custom-bg{
+    background-color: #4f6d90;
 }
 
 .resume-section {
@@ -20,4 +32,12 @@ body{
     width: 3rem;
     height: 3rem;
     margin-right: 1rem
+}
+
+.custom-color-span{
+    color: #4f6d90;
+}
+
+.custom-bg{
+    background-color: #2a475e;
 }
